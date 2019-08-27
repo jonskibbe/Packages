@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Task_Outcome__c</fullName>
+    <externalId>false</externalId>
+    <label>Task Outcome</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Successful Call</fullName>
+                <default>false</default>
+                <label>Successful Call</label>
+            </value>
+            <value>
+                <fullName>Left VM</fullName>
+                <default>false</default>
+                <label>Left VM</label>
+            </value>
+            <value>
+                <fullName>No Msg - I Will Call Back</fullName>
+                <default>false</default>
+                <label>No Msg - I Will Call Back</label>
+            </value>
+            <value>
+                <fullName>Call Back Requested</fullName>
+                <default>false</default>
+                <label>Call Back Requested</label>
+            </value>
+            <value>
+                <fullName>Bad Phone Number</fullName>
+                <default>false</default>
+                <label>Bad Phone Number</label>
+            </value>
+            <value>
+                <fullName>VM Full - No Msg</fullName>
+                <default>false</default>
+                <label>VM Full - No Msg</label>
+            </value>
+            <value>
+                <fullName>Email Sent</fullName>
+                <default>false</default>
+                <label>Email Sent</label>
+            </value>
+            <value>
+                <fullName>Email Bounce</fullName>
+                <default>false</default>
+                <label>Email Bounce</label>
+            </value>
+            <value>
+                <fullName>Successful Meeting</fullName>
+                <default>false</default>
+                <label>Successful Meeting</label>
+            </value>
+            <value>
+                <fullName>Rescheduled</fullName>
+                <default>false</default>
+                <label>Rescheduled</label>
+            </value>
+            <value>
+                <fullName>Cancellation</fullName>
+                <default>false</default>
+                <label>Cancellation</label>
+            </value>
+            <value>
+                <fullName>No Show</fullName>
+                <default>false</default>
+                <label>No Show</label>
+            </value>
+            <value>
+                <fullName>Purchased</fullName>
+                <default>false</default>
+                <label>Purchased</label>
+            </value>
+            <value>
+                <fullName>Showing/Tour [Real Estate]</fullName>
+                <default>false</default>
+                <label>Showing/Tour [Real Estate]</label>
+            </value>
+            <value>
+                <fullName>Returning w/ Spouse</fullName>
+                <default>false</default>
+                <label>Returning w/ Spouse</label>
+            </value>
+            <value>
+                <fullName>Proposal</fullName>
+                <default>false</default>
+                <label>Proposal</label>
+            </value>
+            <value>
+                <fullName>Quote</fullName>
+                <default>false</default>
+                <label>Quote</label>
+            </value>
+            <value>
+                <fullName>Contract</fullName>
+                <default>false</default>
+                <label>Contract</label>
+            </value>
+            <value>
+                <fullName>Activity.Task Outcome</fullName>
+                <default>false</default>
+                <label>Activity.Task Outcome</label>
+            </value>
+            <value>
+                <fullName>LinkedIn Msg Sent</fullName>
+                <default>false</default>
+                <label>LinkedIn Msg Sent</label>
+            </value>
+            <value>
+                <fullName>LinkedIn Msg Received</fullName>
+                <default>false</default>
+                <label>LinkedIn Msg Received</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
